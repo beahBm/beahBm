@@ -4,7 +4,7 @@
 
 <div align="center"><br>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=beahBm&show_icons=true&theme=dark"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beahBm&layout=compact&theme=dark"/>
+  <img height="160cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beahBm&layout=compact&theme=dark"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BeahBM&bg_color=121212&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
